@@ -27,13 +27,15 @@ section#tela{
     
 }
 iframe#tela{
-    position: absolute;
-    margin: 0px;
-    padding: 0px;
+    position: relative;
+    
     top: 80px ;
     left: 21px;
     width:268px;
     height: 467px;
+}
+section#icones{
+    text-align: left;
 }
 section#icones img{
 width: 50;

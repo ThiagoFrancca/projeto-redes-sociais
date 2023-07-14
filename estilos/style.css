@@ -35,3 +35,15 @@ iframe#tela{
     width:268px;
     height: 467px;
 }
+section#icones img{
+width: 50;
+height: 50px;
+border-radius: 50%;
+display: flex;
+align-items: left;
+margin: 10px;
+}
+a {
+    width: 110px;
+}
+img:hover{top:2px;border-bottom:5px solid black}
